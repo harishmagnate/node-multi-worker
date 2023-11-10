@@ -7,9 +7,9 @@ The sample code breaks a json which has 1000 records into 2 chunks and converts 
 
 Steps to run \
 npm install \
-npm start \
+npm start
 
 Sample Logs \
 contents length - 500 \
 contents length - 500 \
-Parallel processing Execution time: 275ms \
+Parallel processing Execution time: 275ms
