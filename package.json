@@ -1,0 +1,16 @@
+{
+  "name": "chunks",
+  "version": "1.0.0",
+  "description": "POC to demo Parallel Chunking capabilities",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test"
+  },
+  "author": "Harish B",
+  "license": "ISC",
+  "dependencies": {
+    "js2xmlparser": "^5.0.0",
+    "piscina": "^4.1.0"
+  }
+}
